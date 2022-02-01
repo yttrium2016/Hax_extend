@@ -1,3 +1,6 @@
+[1919810](https://github.com/CoiaPrant/Hax_extend/raw/main/1919810.jpg)
+这么臭的自动续期，不能要了，丢了吧丢了吧（恼
+
 # ~~失效，不再维护~~
 # Hax_extend
 Hax免费VPS自动续期
