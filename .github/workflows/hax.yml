@@ -1,4 +1,4 @@
-name: 'Hax Auto Renew'
+name: 'Renew Hax'
 
 on:
   workflow_dispatch:
