@@ -1,9 +1,10 @@
-![1919810](https://github.com/CoiaPrant/Hax_extend/raw/main/1919810.jpg)
-这么臭的自动续期，不能要了，丢了吧丢了吧（恼
+# [Hax_extend](https://hax.co.id)
+Hax免费VPS自动续期 IPv6 VPS脚本
+
+由于Hax属于IPV6服务器，可使用 https://ssh.hax.co.id 网页端连接
 
 # ~~失效，不再维护~~
-# Hax_extend
-Hax免费VPS自动续期
+
 
 # 用法
 - 1.Star本项目
@@ -14,10 +15,13 @@ Hax免费VPS自动续期
 - 使用USERNAME中的TG账号提前私聊 @Hax_Renew_Helper_Bot 可获得续期成功通知
 
 # 注意
-此程序仅作为爬虫试验项目，仅用于学习使用，下载完成请在24小时内删除，使用者需要自行承担风险，造成的所有后果均由使用者承担
+> ***此程序仅作为爬虫试验项目，仅用于学习使用，下载完成请在24小时内删除，使用者需要自行承担风险，造成的所有后果均由使用者承担****
 
-# PS
-如果有需要可以联系我
-t.me/CoiaPrant
+## 参考（及本来源）
+源 </br>
+[CoiaPrant](https://github.com/CoiaPrant/Hax_extend.git)
+
+多账号示例`action`文档 </br>
+[SAKURA-KIMI](https://github.com/SAKURA-KIMI/autoextend/blob/main/.github/workflows/hax.yml)
 
 # 新年快乐 闷声发大财！
