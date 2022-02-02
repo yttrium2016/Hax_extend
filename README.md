@@ -3,7 +3,7 @@ Hax免费VPS自动续期 IPv6 VPS脚本
 
 由于Hax属于IPV6服务器，可使用 https://ssh.hax.co.id 网页端连接
 
-# ~~失效，不再维护~~
+## ~~失效，不再维护~~
 
 
 # 用法
