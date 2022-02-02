@@ -3,7 +3,7 @@ name: 'Hax Auto Renew'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 13 */1 * *'
+    - cron: '19 13 */3 * *'
 jobs:
   hax_renew:
     runs-on: windows-2022
@@ -15,5 +15,5 @@ jobs:
           SECRET_USERNAME: ${{ secrets.USERNAME }}
           SECRET_PASSWORD: ${{ secrets.PASSWORD }}
         run: |
-         curl -sSL -O https://github.com/CoiaPrant/Hax_extend/raw/main/HaxAutoReNew.exe
+         curl -sSL -O https://github.com/King-stark/Hax_extend/raw/main/HaxAutoReNew.exe
          HaxAutoReNew.exe -user "%SECRET_USERNAME%" -password "%SECRET_PASSWORD%"
