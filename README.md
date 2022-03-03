@@ -24,4 +24,4 @@ Hax免费VPS自动续期 IPv6 VPS脚本
 多账号示例`action`文档 </br>
 [SAKURA-KIMI](https://github.com/SAKURA-KIMI/autoextend/blob/main/.github/workflows/hax.yml)
 
-# 新年快乐 闷声发大财！
+# 新年快乐 闷声发大财!?
